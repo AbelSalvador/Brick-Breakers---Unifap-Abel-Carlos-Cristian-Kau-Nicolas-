@@ -3,7 +3,7 @@
 #include <conio.h>
 #include <windows.h>
 #include <mmsystem.h>
-#pragma comment(lib, "winmm.lib")
+#pragma comment(lib, "winmm.lib") //pra funcao mcistring q faz a musica loopar
 
 #define LARGURA 40
 #define ALTURA 20
